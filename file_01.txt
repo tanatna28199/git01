@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 HELL Git.
 
 Hello world
+=======
+Hello Git.
+test 
+test
+test
+>>>>>>> a749a3aa0bbd611c2cc682eae37c1ee561f479a8
